@@ -1,25 +1,25 @@
 # Amoracoin
 
-## Sobre o Amoracoin
+## About Amoracoin
 
-Amoracoin (AMCR) é uma moeda digital inovadora, desenvolvida por Ravy Novais Sales em 24/12/2023. Ela é projetada para facilitar trocas online sem depender de dinheiro convencional. A AMCR adota uma abordagem única, não baseada em blockchain, diferenciando-se de muitas criptomoedas. O símbolo da moeda é AMCR.
+Amoracoin (AMCR) is a digital cryptocurrency, developed by Ravy Novais Sales on December 24, 2023. It is designed to facilitate online exchanges without relying on conventional money. The symbol of the coin is AMCR. As an API, Amoracoin can be easily integrated into various projects, expanding its use cases.
 
-## História
+## History
 
-Ravy Novais Sales deu vida à Amoracoin em 24 de dezembro de 2023, impulsionado por uma visão ousada de reinventar as finanças.
+Ravy Novais Sales brought Amoracoin to life on December 24, 2023, but it has undergone several versions.
 
-## Missão
+## Mission
 
-Eliminar a dependência do dinheiro físico e abrir as portas para transações online sem barreiras.
+To eliminate dependence on physical money and open the doors to online transactions without barriers.
 
-## Principais características
+## Key Features
 
-- Abordagem não baseada em blockchain
-- Facilitação de trocas online
-- Alternativa ao dinheiro convencional
+- Facilitation of online exchanges
+- Alternative to conventional money
+- Can be implemented in various projects as an API
 
-## Sobre Ravy Novais Sales
+## About Ravy Novais Sales
 
-Ravy Novais Sales é um renomado programador e cientista da computação, reconhecido por sua vasta expertise e por liderar diversos projetos inovadores no campo da tecnologia. Alguns de seus notáveis empreendimentos incluem a criação da Amoracoin, o desenvolvimento do RuskDrive e RuskChat, o ProtCode, a Rusktech, o Rmusc, o RuskQr Code, o IABOT-02, o LuRa-editor, o PIDMH, o RuskCalc e o Rmaps. Ele também fundou a Nova.is Tech, uma empresa especializada em criação de inteligência artificial e no desenvolvimento de ideias para o futuro.
+Ravy Novais Sales is a programmer. Some of his notable creations include Amoracoin, MelScript, RuskDrive, Websfctype, RuskChat, ProtCode, Rusktech, Rmusc, RuskQr Code, IABOT-02, LuRa-editor, PIDMH, RuskCalc, and Rmaps. He also founded Nova.is Tech, a team specialized in creating artificial intelligence and developing ideas for the future.
 
-Apesar de sua influência no mundo da tecnologia, poucos detalhes são conhecidos sobre a identidade de Ravy Novais Sales, também conhecido pelos Pseudónimo "agente37000y" ou "agente37". O que se sabe é que ele é brasileiro. Sua concentração no desenvolvimento de projetos inovadores que impactam positivamente a sociedade e impulsionam o avanço tecnológico reflete seu objetivo de fazer o mundo ser cada vez melhor através de suas contribuições tecnológicas.
+He is also known by the pseudonyms "agente37000y" or "agente37".
